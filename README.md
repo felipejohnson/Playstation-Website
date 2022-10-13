@@ -16,7 +16,7 @@ Uma loja da Playstation para vendas de controles.  [playstation-website.vercel.a
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
+- HTML 
 - CSS
 - JavaScript
 
